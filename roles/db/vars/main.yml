@@ -1,0 +1,8 @@
+---
+# vars file for db
+#
+mysql_port: 3306
+dbname: hms
+dbuser: hmsysuser
+dbpassword: hmsyspassword
+
